@@ -1,4 +1,4 @@
-def hello():
-  print("hello")
+from first_code.hello_world import hello
 
 hello()
+
